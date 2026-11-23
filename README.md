@@ -1,10 +1,11 @@
-# Deleted Wiki: Clean Up the Lost Files · Мод-меню
+# Deleted Wiki: Clean Up the Lost Files · Внутриигровое мод-меню
 
-Внутриигровое меню на русском языке с десятью функциями для автосортировки каталога, шкалы заряда, СортБотов и прокачки 15 скриптов.
+Внутриигровое мод-меню на русском языке с десятью функциями настройки игры для автосортировки каталога, шкалы заряда, СортБотов и прокачки 15 скриптов.
 
-**[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases/download/v1.0.0/DeletedWiki-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
+- **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases/download/v1.0.0/DeletedWiki-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
+- **[Единая страница с русификатором на Boosty (бесплатно, без регистрации)](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7)**
 
-Проверено на версии 1.0.24 (сборка Steam 26304123) для Windows (`F1`, `Alt+1..6`), Steam Deck / Linux (`install-steamdeck.sh`, `L3 + R3`) и macOS (`install-macos.command`, `Cmd + Shift + M`). Достижения Steam работают в штатном режиме, а в соревновательных забегах на время («Спринт» и «Уборка») функции автоматически отключены для защиты таблиц лидеров.
+Проверено на версии 1.0.24 (сборка Steam 26304123) для **Windows** (`F1`, `Alt+1..6`), **Steam Deck / Linux** (`install-steamdeck.sh`, `L3 + R3`) и **macOS** (`install-macos.command`, `Cmd + Shift + M`). Достижения Steam продолжают открываться как обычно, а в соревновательных забегах на время («Спринт» и «Уборка») функции отключаются автоматически ради честных таблиц лидеров.
 
 Начисленные очки сортировки и завершения, прокачанные скрипты и разложенные по папкам предметы остаются в сохранении после удаления мод-меню.
 
@@ -13,9 +14,9 @@
 ## Установка
 
 1. **Windows:** закройте игру, распакуйте архив и запустите `DeletedWiki-Trainer-Setup.exe` -> **«Установить мод-меню»** (при окне SmartScreen: «Подробнее» -> «Выполнить в любом случае»).
-2. **Steam Deck / Linux:** распакуйте все файлы архива в одну папку и запустите `sh install-steamdeck.sh` рядом с `DeletedWiki-Trainer-Setup.exe`.
+2. **Steam Deck / Linux:** распакуйте все файлы архива в одну папку и выполните `sh install-steamdeck.sh` рядом с `DeletedWiki-Trainer-Setup.exe`.
 3. **macOS:** распакуйте файлы архива в одну папку и запустите `install-macos.command` в Finder.
-4. **Удаление:** запустите установщик повторно и нажмите **«Удалить мод-меню»**. Полностью совместимо как с оригинальной английской игрой, так и с [русификатором текста](https://github.com/neoru-droid/deleted-wiki-ru) - оба пакета хранят резервные копии раздельно (`trainer_backup_orig` и `ru_backup_orig`) и удаляются независимо в любом порядке.
+4. **Удаление:** запустите установщик повторно и нажмите **«Удалить мод-меню»**. Полностью совместимо как с оригинальной английской игрой, так и с [русификатором текста](https://github.com/neoru-droid/deleted-wiki-ru) - резервные копии хранятся раздельно, оба пакета ставятся и удаляются в один клик в любом порядке.
 
 ## Возможности (10 функций)
 
@@ -61,4 +62,4 @@
 
 Об ошибке можно написать в [Issues](https://github.com/neoru-droid/deleted-wiki-trainer-ru/issues).
 
-[Все версии](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases) · [Русификатор Deleted Wiki](https://github.com/neoru-droid/deleted-wiki-ru) · [Boosty](https://boosty.to/cd_tixo) · [Разовые чаевые](https://pay.cloudtips.ru/p/240b8760)
+[Все версии](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases) · [Русификатор Deleted Wiki](https://github.com/neoru-droid/deleted-wiki-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Разовые чаевые](https://pay.cloudtips.ru/p/240b8760)
