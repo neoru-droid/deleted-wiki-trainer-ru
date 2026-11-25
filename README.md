@@ -4,7 +4,7 @@
 
 - **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases/download/v1.0.0/DeletedWiki-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
 - **[Скачать таблицу Cheat Engine v1.0 (.CT в ZIP)](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases/download/v1.0.0/DeletedWiki-CheatTable-RU-v1.0.zip)** · [Как подключить .CT](#таблица-cheat-engine-ct)
-- **[Единая страница с русификатором на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7)**
+- **[Единая страница с русификатором на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki)**
 
 Проверено на версии 1.0.24 (сборка Steam 26304123) для **Windows** (`F1`, `Alt+1..6`), **Steam Deck / Linux** (`install-steamdeck.sh`, `L3 + R3`) и **macOS** (`install-macos.command`, `Cmd + Shift + M`). Достижения Steam продолжают открываться как обычно, а в соревновательных забегах на время («Спринт» и «Уборка») функции отключаются автоматически ради честных таблиц лидеров.
 
@@ -80,4 +80,4 @@
 
 Об ошибке можно написать в [Issues](https://github.com/neoru-droid/deleted-wiki-trainer-ru/issues).
 
-[Все версии](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases) · [Русификатор Deleted Wiki](https://github.com/neoru-droid/deleted-wiki-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Каталог с поиском](https://neoru-droid.github.io/)
+[Все версии](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases) · [Русификатор Deleted Wiki](https://github.com/neoru-droid/deleted-wiki-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki) · [Каталог с поиском](https://neoru-droid.github.io/)
