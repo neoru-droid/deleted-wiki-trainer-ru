@@ -56,7 +56,7 @@
 
 **Прокачанные скрипты и очки в игре**
 
-![Результат работы мод-меню в игре](docs/screenshots/03_gameplay_boosted.png)
+![Работа мод-меню](docs/screenshots/03_gameplay_boosted.png)
 
 ## Таблица Cheat Engine (.CT)
 
