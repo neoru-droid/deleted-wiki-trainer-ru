@@ -7,7 +7,7 @@
 - **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases/download/v1.0.0/DeletedWiki-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
 - **[Скачать таблицу Cheat Engine v1.0 (.CT в ZIP)](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases/download/v1.0.0/DeletedWiki-CheatTable-RU-v1.0.zip)** · [Как подключить .CT](#таблица-cheat-engine-ct)
 
-Проверено на версии `1.0.24` (сборка Steam `26304123`) для **Windows** (`F1`, `Alt+1..6`), **Steam Deck / Linux** (`install-steamdeck.sh`, `L3 + R3`) и **macOS** (`install-macos.command`, `Cmd + Shift + M`). Достижения в Steam продолжают открываться; в забегах на время («Спринт» и «Уборка») функции отключаются сами.
+Проверено на версии `1.0.24` (сборка Steam `26304123`) для **Windows** (`F1`, `Alt+1..6`), **Steam Deck / Linux** (`install-steamdeck.sh`, `L3 + R3`) и **macOS** (`install-macos.command`, `Cmd + Shift + M`); в забегах на время («Спринт» и «Уборка») функции отключаются сами.
 
 ![Обложка мод-меню](docs/screenshots/cover_16x9.png)
 
@@ -60,7 +60,7 @@
 
 ## Таблица Cheat Engine (.CT)
 
-Таблица `DeletedWiki_RU_v1.0.CT` для Cheat Engine 7.5+ (`Deleted Wiki.exe`) работает без изменения файлов игры, достижения в Steam не сбрасываются.
+Таблица `DeletedWiki_RU_v1.0.CT` для Cheat Engine 7.5+ (`Deleted Wiki.exe`) работает в памяти без изменения файлов игры.
 
 ![Таблица Cheat Engine](docs/screenshots/ct_1.png)
 
