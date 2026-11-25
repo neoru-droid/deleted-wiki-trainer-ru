@@ -80,4 +80,4 @@
 
 Об ошибке можно написать в [Issues](https://github.com/neoru-droid/deleted-wiki-trainer-ru/issues).
 
-[Все версии](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases) · [Русификатор Deleted Wiki](https://github.com/neoru-droid/deleted-wiki-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Разовые чаевые](https://pay.cloudtips.ru/p/240b8760)
+[Все версии](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases) · [Русификатор Deleted Wiki](https://github.com/neoru-droid/deleted-wiki-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Каталог с поиском](https://neoru-droid.github.io/)
