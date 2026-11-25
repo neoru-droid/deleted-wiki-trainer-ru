@@ -1,14 +1,13 @@
 # Deleted Wiki: Clean Up the Lost Files · Внутриигровое мод-меню
 
-Внутриигровое мод-меню на русском языке с десятью функциями настройки игры для автосортировки каталога, шкалы заряда, СортБотов и прокачки 15 скриптов.
+Внутриигровое мод-меню на русском языке (10 функций) и таблица Cheat Engine для автосортировки каталога, шкалы заряда, СортБотов и прокачки 15 скриптов.
 
+## Скачать
+- **[Страница релиза и обновления на Boosty (вместе с русификатором 2-в-1)](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki)**
 - **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases/download/v1.0.0/DeletedWiki-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
 - **[Скачать таблицу Cheat Engine v1.0 (.CT в ZIP)](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases/download/v1.0.0/DeletedWiki-CheatTable-RU-v1.0.zip)** · [Как подключить .CT](#таблица-cheat-engine-ct)
-- **[Страница релиза с русификатором на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki)**
 
-Проверено на версии 1.0.24 (сборка Steam 26304123) для **Windows** (`F1`, `Alt+1..6`), **Steam Deck / Linux** (`install-steamdeck.sh`, `L3 + R3`) и **macOS** (`install-macos.command`, `Cmd + Shift + M`). Достижения Steam продолжают открываться, в соревновательных забегах на время («Спринт» и «Уборка») функции отключаются автоматически.
-
-Начисленные очки сортировки и завершения, прокачанные скрипты и разложенные по папкам предметы остаются в сохранении после удаления мод-меню.
+Проверено на версии `1.0.24` (сборка Steam `26304123`) для **Windows** (`F1`, `Alt+1..6`), **Steam Deck / Linux** (`install-steamdeck.sh`, `L3 + R3`) и **macOS** (`install-macos.command`, `Cmd + Shift + M`). Достижения в Steam продолжают открываться; в забегах на время («Спринт» и «Уборка») функции отключаются сами.
 
 ![Обложка мод-меню](docs/screenshots/cover_16x9.png)
 
@@ -61,11 +60,11 @@
 
 ## Таблица Cheat Engine (.CT)
 
-Автономная таблица `DeletedWiki_RU_v1.0.CT` для Cheat Engine 7.7 работает в памяти без правки `app.asar` и без сброса достижений Steam (`Deleted Wiki.exe`).
+Таблица `DeletedWiki_RU_v1.0.CT` для Cheat Engine 7.5+ (`Deleted Wiki.exe`) работает без изменения файлов игры, достижения в Steam не сбрасываются.
 
 ![Таблица Cheat Engine](docs/screenshots/ct_1.png)
 
-1. `+500 очков сортировки (одноразово)` (`Ctrl+Num1`) - начисляет очки сортировки без пометки сохранения.
+1. `+500 очков сортировки (одноразово)` (`Ctrl+Num1`) - начисляет очки сортировки.
 2. `+25 очков завершения (одноразово)` (`Ctrl+Num2`) - начисляет очки завершения.
 3. `Полный заряд шкалы 100%` (`Ctrl+Num3`) - удерживает шкалу заряда на 100%.
 4. `Открыть условия всех скриптов` (`Ctrl+Num4`) - снимает ограничения на покупку скриптов.
@@ -76,8 +75,12 @@
 
 Как подключить: запустите игру -> откройте `DeletedWiki_RU_v1.0.CT` через `File -> Load` в Cheat Engine -> включайте строки по одной или клавишами `Ctrl+Num1` .. `Ctrl+Num8` (таблица сама найдёт нужный процесс-рендерер, не нажимайте `Ctrl+A` в окне Cheat Engine).
 
-## Обратная связь и ссылки
+## Обратная связь и проекты автора
 
-Об ошибке можно написать в [Issues](https://github.com/neoru-droid/deleted-wiki-trainer-ru/issues).
+Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/deleted-wiki-trainer-ru/issues).
 
-[Все версии](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases) · [Русификатор Deleted Wiki](https://github.com/neoru-droid/deleted-wiki-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki) · [Каталог с поиском](https://neoru-droid.github.io/)
+Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki) · [профиль на GitHub](https://github.com/neoru-droid)
+
+Лицензия: [MIT](LICENSE)
+
+Автор: `neoru-droid`
