@@ -4,9 +4,9 @@
 
 - **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases/download/v1.0.0/DeletedWiki-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
 - **[Скачать таблицу Cheat Engine v1.0 (.CT в ZIP)](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases/download/v1.0.0/DeletedWiki-CheatTable-RU-v1.0.zip)** · [Как подключить .CT](#таблица-cheat-engine-ct)
-- **[Единая страница с русификатором на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki)**
+- **[Страница релиза с русификатором на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki)**
 
-Проверено на версии 1.0.24 (сборка Steam 26304123) для **Windows** (`F1`, `Alt+1..6`), **Steam Deck / Linux** (`install-steamdeck.sh`, `L3 + R3`) и **macOS** (`install-macos.command`, `Cmd + Shift + M`). Достижения Steam продолжают открываться как обычно, а в соревновательных забегах на время («Спринт» и «Уборка») функции отключаются автоматически ради честных таблиц лидеров.
+Проверено на версии 1.0.24 (сборка Steam 26304123) для **Windows** (`F1`, `Alt+1..6`), **Steam Deck / Linux** (`install-steamdeck.sh`, `L3 + R3`) и **macOS** (`install-macos.command`, `Cmd + Shift + M`). Достижения Steam продолжают открываться, в соревновательных забегах на время («Спринт» и «Уборка») функции отключаются автоматически.
 
 Начисленные очки сортировки и завершения, прокачанные скрипты и разложенные по папкам предметы остаются в сохранении после удаления мод-меню.
 
